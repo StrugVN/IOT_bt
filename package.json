@@ -16,7 +16,7 @@
     "url": "https://github.com/StrugVN/IOT_bt/issues"
   },
   "engines": {
-    "node": "14.x"
+    "node": "22.x"
   },
   "homepage": "https://github.com/StrugVN/IOT_bt#readme"
 }
