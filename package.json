@@ -1,0 +1,19 @@
+{
+  "name": "iot_bt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StrugVN/IOT_bt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StrugVN/IOT_bt/issues"
+  },
+  "homepage": "https://github.com/StrugVN/IOT_bt#readme"
+}
